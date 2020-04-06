@@ -368,7 +368,7 @@ next_point:
 	# then do the multiplication and the bigger shift in the end.
 	
 	# This provides both quite good accuracy and ability to operate on bigger files with the actual line drawn in the file
-	# and not just few points.
+	# and not just a few points.
 	
 	
 	
