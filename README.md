@@ -4,4 +4,4 @@ This program paints Bezier curve in BMP file. A file must already exist while pr
 
 # How to run
 
-MARS MIPS simulator installed is required. Simply load the file into simulator, put a input file in the same directory as the program and run.
+MARS MIPS simulator downloaded is required. Simply load the file into simulator, put a input file in the same directory as the program and run.
